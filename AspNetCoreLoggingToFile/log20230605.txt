@@ -1,0 +1,46 @@
+2023-06-05 18:00:33.542 +08:00 [INF] Now listening on: http://localhost:5214
+2023-06-05 18:00:33.577 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-05 18:00:33.580 +08:00 [INF] Hosting environment: Development
+2023-06-05 18:00:33.580 +08:00 [INF] Content root path: D:\GitHub\bidianqing\AspNetCoreLoggingToFile\AspNetCoreLoggingToFile
+2023-06-05 18:22:34.446 +08:00 [INF] Application is shutting down...
+2023-06-05 18:22:41.651 +08:00 [INF] Now listening on: http://localhost:5214
+2023-06-05 18:22:41.688 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-05 18:22:41.691 +08:00 [INF] Hosting environment: Development
+2023-06-05 18:22:41.691 +08:00 [INF] Content root path: D:\GitHub\bidianqing\AspNetCoreLoggingToFile\AspNetCoreLoggingToFile
+2023-06-05 18:24:32.599 +08:00 [INF] Application is shutting down...
+2023-06-05 18:24:55.584 +08:00 [INF] Now listening on: http://localhost:5214
+2023-06-05 18:24:55.638 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-05 18:24:55.640 +08:00 [INF] Hosting environment: Development
+2023-06-05 18:24:55.640 +08:00 [INF] Content root path: D:\GitHub\bidianqing\AspNetCoreLoggingToFile\AspNetCoreLoggingToFile
+2023-06-05 18:25:14.296 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5214/home - -
+2023-06-05 18:25:14.358 +08:00 [INF] Executing endpoint 'AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile)'
+2023-06-05 18:25:14.402 +08:00 [INF] Route matched with {action = "Get", controller = "Home"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[AspNetCoreLoggingToFile.WeatherForecast] Get() on controller AspNetCoreLoggingToFile.Controllers.HomeController (AspNetCoreLoggingToFile).
+2023-06-05 18:25:14.518 +08:00 [INF] Executing action method AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile) - Validation state: "Valid"
+2023-06-05 18:25:14.521 +08:00 [INF] test logging
+2023-06-05 18:25:14.527 +08:00 [INF] Executed action method AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2.2159ms.
+2023-06-05 18:25:14.534 +08:00 [INF] Executing ObjectResult, writing value of type 'AspNetCoreLoggingToFile.WeatherForecast[]'.
+2023-06-05 18:25:14.589 +08:00 [INF] Executed action AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile) in 182.9121ms
+2023-06-05 18:25:14.589 +08:00 [INF] Executed endpoint 'AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile)'
+2023-06-05 18:25:14.610 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5214/home - - - 200 - application/json;+charset=utf-8 316.7707ms
+2023-06-05 18:25:14.695 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5214/favicon.ico - -
+2023-06-05 18:25:14.697 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5214/favicon.ico - - - 404 0 - 2.1980ms
+2023-06-05 18:25:33.012 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5214/home - -
+2023-06-05 18:25:33.016 +08:00 [INF] Executing endpoint 'AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile)'
+2023-06-05 18:25:33.017 +08:00 [INF] Route matched with {action = "Get", controller = "Home"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[AspNetCoreLoggingToFile.WeatherForecast] Get() on controller AspNetCoreLoggingToFile.Controllers.HomeController (AspNetCoreLoggingToFile).
+2023-06-05 18:25:33.052 +08:00 [INF] Executing action method AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile) - Validation state: "Valid"
+2023-06-05 18:25:33.052 +08:00 [INF] test logging
+2023-06-05 18:25:33.053 +08:00 [INF] Executed action method AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2276ms.
+2023-06-05 18:25:33.053 +08:00 [INF] Executing ObjectResult, writing value of type 'AspNetCoreLoggingToFile.WeatherForecast[]'.
+2023-06-05 18:25:33.054 +08:00 [INF] Executed action AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile) in 36.6269ms
+2023-06-05 18:25:33.054 +08:00 [INF] Executed endpoint 'AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile)'
+2023-06-05 18:25:33.055 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5214/home - - - 200 - application/json;+charset=utf-8 42.2142ms
+2023-06-05 18:25:34.661 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5214/home - -
+2023-06-05 18:25:34.662 +08:00 [INF] Executing endpoint 'AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile)'
+2023-06-05 18:25:34.662 +08:00 [INF] Route matched with {action = "Get", controller = "Home"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[AspNetCoreLoggingToFile.WeatherForecast] Get() on controller AspNetCoreLoggingToFile.Controllers.HomeController (AspNetCoreLoggingToFile).
+2023-06-05 18:25:34.686 +08:00 [INF] Executing action method AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile) - Validation state: "Valid"
+2023-06-05 18:25:34.686 +08:00 [INF] test logging
+2023-06-05 18:25:34.686 +08:00 [INF] Executed action method AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.0868ms.
+2023-06-05 18:25:34.686 +08:00 [INF] Executing ObjectResult, writing value of type 'AspNetCoreLoggingToFile.WeatherForecast[]'.
+2023-06-05 18:25:34.686 +08:00 [INF] Executed action AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile) in 24.0209ms
+2023-06-05 18:25:34.686 +08:00 [INF] Executed endpoint 'AspNetCoreLoggingToFile.Controllers.HomeController.Get (AspNetCoreLoggingToFile)'
+2023-06-05 18:25:34.687 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5214/home - - - 200 - application/json;+charset=utf-8 26.1297ms
